@@ -1,0 +1,2 @@
+# Reconocimiento_De_Patrones_Grupo01
+Group_Project
